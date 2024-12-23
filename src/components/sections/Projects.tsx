@@ -5,7 +5,7 @@ const projects = [
         'A full-stack e-commerce platform designed to facilitate online furniture shopping. Built using the MERN stack, this project includes features like product catalogs, secure payment integration, and a responsive user interface for seamless shopping experiences.',
       image: 'https://blog.converted.in/hubfs/AR%20and%20VR%20Furniture%20eCommerce.webp',
       tags: ['React', 'Node.js', 'Express.js', 'MongoDB'],
-      link: '/' // Replace with the actual link when available
+      link: 'https://online-furniture-zeta.vercel.app/' 
     },
     {
       title: 'Calculator App',
@@ -13,7 +13,7 @@ const projects = [
         'A responsive and user-friendly calculator application developed using React. This project demonstrates reusable components, efficient state management, and a clean user interface design.',
       image: 'https://img.pikbest.com/png-images/accounting-calculator-icon--vector-graphics_1790151.png!sw800',
       tags: ['React', 'JavaScript', 'CSS'],
-      link: 'https://calculator-app-one-amber.vercel.app/' // Replace with the actual link when available
+      link: 'https://calculator-app-one-amber.vercel.app/' 
     }
   ];
   
